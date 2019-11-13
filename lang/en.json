@@ -1,0 +1,9 @@
+{
+  "title": "React Intl Next.js Example",
+  "nav.home": "Home",
+  "nav.about": "About",
+  "nav.error": "Error",
+  "nav.preact": "Preact",
+  "description": "An example app integrating React Intl with Next.js",
+  "greeting": "Hello, World!"
+}
